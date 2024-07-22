@@ -15,9 +15,7 @@ the sentence-embeddings of each dataset.
 
 ## Model Testing
 The Notebooks `3_st1_model_testing.ipynb` and `3_st2_model_testing.ipynb` use the models produced by the grid search
-to evaluate their scoring int Subtask 1 and Subtask 2 on the Validation set. This will only work reliable, if neither or
-both of preprocessing and grid search have been executed on the same machine. The reason for this is that preprocessing
-produces random results and if the validation set contains data known to the model the results will be significantly better.
+to evaluate their scoring int Subtask 1 and Subtask 2 on the Validation set. 
 
 ## Submission
 To reproduce the Datasets that have been submitted to GermEval, execute the Notebooks starting with `4_submission_`.
