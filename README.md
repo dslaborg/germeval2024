@@ -1,9 +1,8 @@
 # GermEval2024
 
-### Paper: **"Detecting Sexism in German Online Newspaper Comments with Open-Source Text Embeddings (Team GDA, GerMS-Detect Subtasks 1 and 2, Closed Track)"**
-### Authors: Florian Bremm, Patrick Gustav Blaneck, Tobias Bornheim, Niklas Grieger and Stephan Bialonski
+Repository containing the experiments described in our paper for the GermEval 2024 challenge: *"Detecting Sexism in German Online Newspaper Comments with Open-Source Text Embeddings (Team GDA, GermEval2024 Shared Task 1: GerMS-Detect, Subtasks 1 and 2, Closed Track)"*.
 
-Welcome to the GermEval2024 repository of *Team GDA*!
+**Authors:** Florian Bremm, Patrick Gustav Blaneck, Tobias Bornheim, Niklas Grieger and Stephan Bialonski
 
 This README provides instructions on how to set up the environment, preprocess the data, perform a grid search for model parameters, test models, and generate submission files.
 
